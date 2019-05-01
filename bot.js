@@ -75,23 +75,6 @@ client.on('message', msg => {
   }
 });
 
-client.on('message', msg => {
-  if (msg.content === 'شعار السيرفر') {
-    msg.reply('『 VIC』');
-  }
-});
-
-client.on('message', msg => {
-  if (msg.content === '@Victoria , System') {
-    msg.reply('اتفضل حبي؟');
-  }
-});
-
-client.on('message', msg => {
-  if (msg.content === 'ترحيب') {
-    msg.reply('**<<<<<<< Welcome To Victoria ,! >>>>>>>**');
-  }
-});
 
 client.on('message', msg => {
   if (msg.content === 'صباح الخير') {
@@ -542,7 +525,7 @@ client.on('message', message => {
  ❖-**close ➾ **اغلاق التذكرة
  ❖-**setvoice ➾ **لانشاء رووم صوتي
 ╔[❖════════════❖]╗
-                    لدخول السيرفر الخاص بلبوت [https://discord.gg/QqPcbER]
+                    لدخول السيرفر الخاص بلبوت [https://discord.gg/ezRw9Zr]
 ╚[❖════════════❖]╝
 ==================================================================
 ==================================================================
