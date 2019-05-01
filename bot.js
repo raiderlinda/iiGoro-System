@@ -452,7 +452,7 @@ client.on('message',async message => {
   }
 });
 
-const developers = ["491573288821063681"]
+const developers = ["491573288821063681,491573288821063681"]
 const adminprefix = "-";
 client.on('message', message => {
     var argresult = message.content.split(` `).slice(1).join(' ');
